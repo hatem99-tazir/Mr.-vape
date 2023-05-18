@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f481f305.css",
+    "main.js": "./static/js/main.59768df7.js",
+    "static/js/787.64e9454f.chunk.js": "./static/js/787.64e9454f.chunk.js",
+    "static/media/vape.jpg": "./static/media/vape.3cd72e691f14b8196bbc.jpg",
+    "static/media/logo.png": "./static/media/logo.3661d3123ff8bc645605.png",
+    "static/media/loader.gif": "./static/media/loader.9ef9caccf0dd8d0c21b9.gif",
+    "index.html": "./index.html",
+    "main.f481f305.css.map": "./static/css/main.f481f305.css.map",
+    "main.59768df7.js.map": "./static/js/main.59768df7.js.map",
+    "787.64e9454f.chunk.js.map": "./static/js/787.64e9454f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f481f305.css",
+    "static/js/main.59768df7.js"
+  ]
+}
